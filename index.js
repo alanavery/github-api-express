@@ -85,6 +85,3 @@ app.get('/dexter', (req, res) => {
 app.listen(PORT, () => {
   console.log(`The server is up and running on PORT ${PORT}.`);
 });
-
-let string = 'string';
-let array = ['one', 'two'];
